@@ -86,8 +86,6 @@ function drawBricks() {
   });
 }
 
-console.log(bricks);
-
 // Move paddle on canvas
 function movePaddle() {
   paddle.x += paddle.dx;
